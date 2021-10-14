@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "GIVEN a command-line application that accepts user input",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCYang1006/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TCYang1006/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/TCYang1006/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
