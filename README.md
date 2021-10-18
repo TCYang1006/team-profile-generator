@@ -1,23 +1,27 @@
-# team-profile-generator
-GIVEN a command-line application that accepts user input
+# Team Profile Generator
 
-WHEN I am prompted for my team members and their information
-THEN an HTML file is generated that displays a nicely formatted team roster based on user input
+## License
+Eclipse Public License 1.0
+[![License: ODbL](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
-WHEN I click on an email address in the HTML
-THEN my default email program opens and populates the TO field of the email with the address
+## Description: 
+The user will be prompt to enter in the Manager's info and given a chance to add either an Engineer or Intern to the team.  After entering all of the team's info, a profile card will be generated for all of the team member.
+<img src="./assests/Myteamexample.png"/>
 
-WHEN I click on the GitHub username
-THEN that GitHub profile opens in a new tab
+### Contents
+1.  [Installation](#installation)
+2.  [Usage](#usage)
+3.  [Tests](#tests)
 
+## Installation:  
+NPM will be required for this project
 
+## Usage:
+This project will use inquirer, boot-strap, font-awesome and jquery
 
+## Tests:
+To run this project, type "node index.js" or "node index" at the command prompt (quotation marks are not required)
 
-
-
-
-WHEN I select the intern option
-THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
-
-WHEN I decide to finish building my team
-THEN I exit the application, and the HTML is generated
+## Questions:
+Github profile:[TCYang1006](https://github.com/TCYang1006)
+If there are any additional questions about this project, please contact me at [yangtongchee@hotmail.com](yangtongchee@hotmail.com)
