@@ -3,7 +3,7 @@ const generateManager = function (Manager) {
     return `
     <div class="col-4 mt-4">
         <div class="card h-100">
-            <div class="card-header">
+            <div class="card-header" style="background-color: blue; color: white">
                 <h3>${Manager.name}</h3>
                 <h4><i class="fas fa-mug-hot"></i> Manager</h4>
             </div>
@@ -22,7 +22,7 @@ const generateEngineer = function (Engineer) {
     return `
     <div class="col-4 mt-4">
         <div class="card h-100">
-            <div class="card-header">
+            <div class="card-header" style="background-color: blue; color: white">
                 <h3>${Engineer.name}</h3>
                 <h4><i class="fas fa-glasses"></i> Engineer</h4>
             </div>
@@ -41,7 +41,7 @@ const generateIntern = function (Intern) {
     return `
     <div class="col-4 mt-4">
         <div class="card h-100">
-            <div class="card-header">
+            <div class="card-header" style="background-color: blue; color: white">
                 <h3>${Intern.name}</h3>
                 <h4><i class="fas fa-user-graduate"></i> Intern</h4>
             </div>
