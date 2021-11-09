@@ -22,6 +22,8 @@ This project will use inquirer, boot-strap, font-awesome and jquery
 ## Tests:
 To run this project, type "node index.js" or "node index" at the command prompt (quotation marks are not required)
 
+[![NPM TAG](https://pacificequitygroup.net/wp-content/uploads/2017/01/video-player-placeholder-768x356.png)](https://drive.google.com/file/d/1H0SZK0mSuPBjnmW8jM84vzph88xG9ViQ/preview)
+
 ## Questions:
 Github profile:[TCYang1006](https://github.com/TCYang1006)
 If there are any additional questions about this project, please contact me at [yangtongchee@hotmail.com](yangtongchee@hotmail.com)
